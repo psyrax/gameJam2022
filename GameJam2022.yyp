@@ -1,5 +1,11 @@
 {
   "resources": [
+    {"id":{"name":"RandomWall","path":"objects/RandomWall/RandomWall.yy",},"order":1,},
+    {"id":{"name":"Running","path":"sprites/Running/Running.yy",},"order":0,},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":2,},
+    {"id":{"name":"RunningDoc","path":"objects/RunningDoc/RunningDoc.yy",},"order":0,},
+    {"id":{"name":"AllDoc","path":"sprites/AllDoc/AllDoc.yy",},"order":1,},
+    {"id":{"name":"Wall","path":"sprites/Wall/Wall.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
