@@ -1,12 +1,20 @@
 {
   "resources": [
     {"id":{"name":"RandomWall","path":"objects/RandomWall/RandomWall.yy",},"order":1,},
+    {"id":{"name":"ZombieBlueStun","path":"sprites/ZombieBlueStun/ZombieBlueStun.yy",},"order":11,},
     {"id":{"name":"DocJump","path":"sprites/DocJump/DocJump.yy",},"order":3,},
+    {"id":{"name":"ZombieBlueStand","path":"sprites/ZombieBlueStand/ZombieBlueStand.yy",},"order":6,},
+    {"id":{"name":"ZombieBlueWalk","path":"sprites/ZombieBlueWalk/ZombieBlueWalk.yy",},"order":7,},
+    {"id":{"name":"ZombieBlueFall","path":"sprites/ZombieBlueFall/ZombieBlueFall.yy",},"order":9,},
     {"id":{"name":"DocIdle","path":"sprites/DocIdle/DocIdle.yy",},"order":5,},
     {"id":{"name":"DocRun","path":"sprites/DocRun/DocRun.yy",},"order":0,},
+    {"id":{"name":"ZombieBlue","path":"objects/ZombieBlue/ZombieBlue.yy",},"order":2,},
     {"id":{"name":"Doc","path":"objects/Doc/Doc.yy",},"order":0,},
     {"id":{"name":"AllDoc","path":"sprites/AllDoc/AllDoc.yy",},"order":1,},
     {"id":{"name":"Wall","path":"sprites/Wall/Wall.yy",},"order":2,},
+    {"id":{"name":"ZombieRoomTest","path":"rooms/ZombieRoomTest/ZombieRoomTest.yy",},"order":1,},
+    {"id":{"name":"ZombieBlueRun","path":"sprites/ZombieBlueRun/ZombieBlueRun.yy",},"order":8,},
+    {"id":{"name":"ZombieBlueInvensible","path":"sprites/ZombieBlueInvensible/ZombieBlueInvensible.yy",},"order":10,},
     {"id":{"name":"DocLand","path":"sprites/DocLand/DocLand.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
@@ -32,6 +40,7 @@
     ],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"ZombieRoomTest","path":"rooms/ZombieRoomTest/ZombieRoomTest.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "Folders": [
