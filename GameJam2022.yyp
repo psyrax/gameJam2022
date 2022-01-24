@@ -47,6 +47,7 @@
     {"roomId":{"name":"LevelSelect","path":"rooms/LevelSelect/LevelSelect.yy",},},
     {"roomId":{"name":"DocTest","path":"rooms/DocTest/DocTest.yy",},},
     {"roomId":{"name":"ZombieRoomTest","path":"rooms/ZombieRoomTest/ZombieRoomTest.yy",},},
+    {"roomId":{"name":"ZombieRoomTest","path":"rooms/ZombieRoomTest/ZombieRoomTest.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
