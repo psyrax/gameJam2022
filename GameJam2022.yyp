@@ -1,11 +1,14 @@
 {
   "resources": [
     {"id":{"name":"RandomWall","path":"objects/RandomWall/RandomWall.yy",},"order":1,},
+    {"id":{"name":"LevelSelect","path":"rooms/LevelSelect/LevelSelect.yy",},"order":2,},
     {"id":{"name":"ZombieBlueStun","path":"sprites/ZombieBlueStun/ZombieBlueStun.yy",},"order":11,},
+    {"id":{"name":"HackFont","path":"fonts/HackFont/HackFont.yy",},"order":0,},
     {"id":{"name":"DocJump","path":"sprites/DocJump/DocJump.yy",},"order":3,},
     {"id":{"name":"ZombieBlueStand","path":"sprites/ZombieBlueStand/ZombieBlueStand.yy",},"order":6,},
     {"id":{"name":"ZombieBlueWalk","path":"sprites/ZombieBlueWalk/ZombieBlueWalk.yy",},"order":7,},
     {"id":{"name":"ZombieBlueFall","path":"sprites/ZombieBlueFall/ZombieBlueFall.yy",},"order":9,},
+    {"id":{"name":"MenuBack","path":"sprites/MenuBack/MenuBack.yy",},"order":12,},
     {"id":{"name":"DocIdle","path":"sprites/DocIdle/DocIdle.yy",},"order":5,},
     {"id":{"name":"DocRun","path":"sprites/DocRun/DocRun.yy",},"order":0,},
     {"id":{"name":"ZombieBlue","path":"objects/ZombieBlue/ZombieBlue.yy",},"order":2,},
@@ -14,9 +17,10 @@
     {"id":{"name":"Wall","path":"sprites/Wall/Wall.yy",},"order":2,},
     {"id":{"name":"ZombieRoomTest","path":"rooms/ZombieRoomTest/ZombieRoomTest.yy",},"order":1,},
     {"id":{"name":"ZombieBlueRun","path":"sprites/ZombieBlueRun/ZombieBlueRun.yy",},"order":8,},
+    {"id":{"name":"MainMenu","path":"objects/MainMenu/MainMenu.yy",},"order":3,},
     {"id":{"name":"ZombieBlueInvensible","path":"sprites/ZombieBlueInvensible/ZombieBlueInvensible.yy",},"order":10,},
     {"id":{"name":"DocLand","path":"sprites/DocLand/DocLand.yy",},"order":4,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"DocTest","path":"rooms/DocTest/DocTest.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -40,8 +44,9 @@
     ],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"LevelSelect","path":"rooms/LevelSelect/LevelSelect.yy",},},
+    {"roomId":{"name":"DocTest","path":"rooms/DocTest/DocTest.yy",},},
     {"roomId":{"name":"ZombieRoomTest","path":"rooms/ZombieRoomTest/ZombieRoomTest.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
