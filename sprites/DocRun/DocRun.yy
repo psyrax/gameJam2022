@@ -89,8 +89,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Doc",
+    "path": "folders/Sprites/Doc.yy",
   },
   "resourceVersion": "1.0",
   "name": "DocRun",
