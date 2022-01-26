@@ -65,9 +65,9 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"displayName":"Layer Group 1","layers":[
+    {"layers":[
         {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"bb940d5a-ead3-44c4-924f-10fc2f472d0a","tags":[],"resourceType":"GMImageLayer",},
-      ],"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"resourceVersion":"1.0","name":"0d1d81a4-8258-42f1-b553-c4fb8fe95fd9","tags":[],"resourceType":"GMImageFolderLayer",},
+      ],"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer Group 1","resourceVersion":"1.0","name":"0d1d81a4-8258-42f1-b553-c4fb8fe95fd9","tags":[],"resourceType":"GMImageFolderLayer",},
   ],
   "nineSlice": {
     "left": 0,
@@ -95,8 +95,8 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Guns",
+    "path": "folders/Sprites/Guns.yy",
   },
   "resourceVersion": "1.0",
   "name": "gunSprite",
